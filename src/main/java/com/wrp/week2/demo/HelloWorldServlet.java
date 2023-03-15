@@ -12,6 +12,6 @@ public class HelloWorldServlet extends HttpServlet{
         writer.println("Hello Client!!!");
     }
     public void doPost(HttpServletRequest request,HttpServletResponse response){
-        //when client request method is Post - here - inside doPost()
+
     }
 }
