@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WangRuping2021211001000902WebApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WangRuping2021211001000902WebApp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WangRuping2021211001000902WebApp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WangRuping2021211001000902WebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
